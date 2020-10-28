@@ -1,0 +1,15 @@
+.buildControls {
+	display: flex;
+	align-items: center;
+	flex-flow: column;
+	width: 100%;
+	margin: auto;
+	padding: 10px 0;
+	background: #CFCFCF;
+}
+
+.orderButton {
+	width: 200px;
+	height: 40px;
+	margin-top: 16px;
+}

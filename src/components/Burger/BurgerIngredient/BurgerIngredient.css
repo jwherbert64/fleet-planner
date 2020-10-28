@@ -1,0 +1,44 @@
+.breadTop {
+	height: 40px;
+	margin-bottom: 10px;
+	border-top-right-radius: 16px;
+	border-top-left-radius: 16px;
+	background-color: #e5cb7a;
+}
+
+.breadBottom {
+	height: 40px;
+	margin-top: 10px;
+	border-bottom-right-radius: 16px;
+	border-bottom-left-radius: 16px;
+	background-color: #e5cb7a;
+}
+
+.seeds {
+	height: 10px;
+	background-color: #000;
+}
+
+.meat {
+	height: 20px;
+	margin: 10px 0;
+	background-color: #d2691e;
+}
+
+.cheese {
+	height: 20px;
+	margin: 10px 0;
+	background-color: #ffa600;
+}
+
+.bacon {
+	height: 20px;
+	margin: 10px 0;
+	background-color: #f65656;
+}
+
+.salad {
+	height: 20px;
+	margin: 10px 0;
+	background-color: #d5df80;
+}

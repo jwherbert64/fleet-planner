@@ -1,0 +1,15 @@
+.mobileOnly {
+	cursor: pointer;
+}
+
+.mobileOnly:hover,
+.mobileOnly:active,
+.mobileOnly.active {
+	color: #007cf7;
+}
+
+@media (min-width: 768px) {
+	.mobileOnly {
+		display: none;
+	}
+}
